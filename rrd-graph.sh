@@ -264,6 +264,6 @@ func_graph_drives_separately () {
 func_graph_cpus_together
 func_graph_drives_together
 # func_graph_cpus_separately
-# func_graph_drives_separately
+func_graph_drives_separately
 
 
